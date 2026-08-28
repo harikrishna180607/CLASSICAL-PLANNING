@@ -101,6 +101,3 @@ print("Example 2:", find_plan(initial, goal, actions))
 ## RESULT:
 
 We got the Output Successfully
-
-# Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
-<h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
